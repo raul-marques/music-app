@@ -1,6 +1,6 @@
 <h4 align="center">
   <img src=".github/01.gif" width="180px" /></br>
- <b>☀🌑 Expo Dark Light Template</b>
+ <b>🎶🎧 Music App - Spotify</b>
 </h4>
 <p align="center">
     <a href="https://www.npmjs.com/package/react-native-template-expo-darknlight">
